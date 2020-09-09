@@ -1,5 +1,5 @@
 # Web developer
-![HitCount](https://komarev.com/ghpvc/?username=shmidtelson)
+![HitCount](https://komarev.com/ghpvc/?username=shmidtelson&style=flat-square)
 
 Skills: 
 * PHP
