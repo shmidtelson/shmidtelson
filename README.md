@@ -1,6 +1,5 @@
 # Web developer
-[![HitCount](http://hits.dwyl.com/shmidtelson/wp-post-rating.svg)](http://hits.dwyl.com/shmidtelson/wp-post-rating)
-
+[![HitCount](https://komarev.com/ghpvc/?username=shmidtelson)
 Skills: 
 * PHP
 * Python
